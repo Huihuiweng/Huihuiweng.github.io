@@ -5,7 +5,7 @@
     <link>https://huihuiweng.github.io/publication-type/2/</link>
       <atom:link href="https://huihuiweng.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://huihuiweng.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Integrated rupture mechanics for slow slip events and earthquakes</title>
+      <link>https://huihuiweng.github.io/publication/2022-nc/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://huihuiweng.github.io/publication/2022-nc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Continuum of earthquake rupture speeds enabled by oblique slip</title>
-      <link>https://huihuiweng.github.io/publication/ng-2020/</link>
+      <link>https://huihuiweng.github.io/publication/2020-ng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://huihuiweng.github.io/publication/ng-2020/</guid>
+      <guid>https://huihuiweng.github.io/publication/2020-ng/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://huihuiweng.github.io/publication/</link>
       <atom:link href="https://huihuiweng.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 May 2023 10:23:57 +0800</lastBuildDate>
     <image>
       <url>https://huihuiweng.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Continuum of earthquake rupture speeds enabled by oblique slip</title>
-      <link>https://huihuiweng.github.io/publication/ng-2020/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://huihuiweng.github.io/publication/ng-2020/</guid>
+      <title>2019 JGR</title>
+      <link>https://huihuiweng.github.io/publication/2019-jgr/</link>
+      <pubDate>Sat, 27 May 2023 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/publication/2019-jgr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated rupture mechanics for slow slip events and earthquakes</title>
+      <link>https://huihuiweng.github.io/publication/2022-nc/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://huihuiweng.github.io/publication/2022-nc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuum of earthquake rupture speeds enabled by oblique slip</title>
-      <link>https://huihuiweng.github.io/publication/temp/</link>
+      <link>https://huihuiweng.github.io/publication/2020-ng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://huihuiweng.github.io/publication/temp/</guid>
+      <guid>https://huihuiweng.github.io/publication/2020-ng/</guid>
       <description></description>
     </item>
     
