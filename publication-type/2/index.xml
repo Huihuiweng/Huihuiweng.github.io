@@ -5,7 +5,7 @@
     <link>https://huihuiweng.github.io/publication-type/2/</link>
       <atom:link href="https://huihuiweng.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://huihuiweng.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -14,17 +14,113 @@
     
     <item>
       <title>Integrated rupture mechanics for slow slip events and earthquakes</title>
-      <link>https://huihuiweng.github.io/publication/2022-nc/</link>
+      <link>https://huihuiweng.github.io/preprint/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://huihuiweng.github.io/publication/2022-nc/</guid>
+      <guid>https://huihuiweng.github.io/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated rupture mechanics for slow slip events and earthquakes</title>
+      <link>https://huihuiweng.github.io/publication/13-nc-2022/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://huihuiweng.github.io/publication/13-nc-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuum of earthquake rupture speeds enabled by oblique slip</title>
-      <link>https://huihuiweng.github.io/publication/2020-ng/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://huihuiweng.github.io/publication/2020-ng/</guid>
+      <link>https://huihuiweng.github.io/publication/12-ng-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://huihuiweng.github.io/publication/12-ng-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does a damaged fault zone mitigate the near-field impact of supershear earthquakes? Application to the 2018 Mw 7.5 Palu earthquake</title>
+      <link>https://huihuiweng.github.io/publication/11-grl-2020/</link>
+      <pubDate>Fri, 03 Jan 2020 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/publication/11-grl-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deriving rupture scenarios from interseismic locking distributions along the subduction megathrust</title>
+      <link>https://huihuiweng.github.io/publication/9-jgr-2019/</link>
+      <pubDate>Thu, 12 Sep 2019 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/publication/9-jgr-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Dynamics of Elongated Earthquake Ruptures</title>
+      <link>https://huihuiweng.github.io/publication/10-jgr-2019/</link>
+      <pubDate>Tue, 30 Jul 2019 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/publication/10-jgr-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraining frictional properties on fault by dynamic rupture simulations and near-field observation</title>
+      <link>https://huihuiweng.github.io/publication/8-jgr-2018/</link>
+      <pubDate>Tue, 24 Jul 2018 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/publication/8-jgr-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seismogenic width controls aspect ratios of earthquake ruptures</title>
+      <link>https://huihuiweng.github.io/publication/7-grl-2017/</link>
+      <pubDate>Fri, 17 Mar 2017 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/publication/7-grl-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Earthquake rupture extents and coseismic slips promoted by damaged fault zones</title>
+      <link>https://huihuiweng.github.io/publication/6-jgr-2016/</link>
+      <pubDate>Fri, 20 May 2016 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/publication/6-jgr-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coseismic radiation and stress drop during the 2015 Mw8.3 Illapel, Chile megathrust earthquake</title>
+      <link>https://huihuiweng.github.io/publication/5-grl-2016/</link>
+      <pubDate>Thu, 28 Jan 2016 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/publication/5-grl-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barrier-induced supershear ruptures on a slip-weakening fault</title>
+      <link>https://huihuiweng.github.io/publication/4-grl-2015/</link>
+      <pubDate>Wed, 03 Jun 2015 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/publication/4-grl-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical simulations about subduction earthquake cycles: The case of Japan Tohoku Mw9.0 earthquake</title>
+      <link>https://huihuiweng.github.io/publication/3-jgg-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/publication/3-jgg-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical simulations about the influence of stress disturbance on earthquake cycle and seismic moment</title>
+      <link>https://huihuiweng.github.io/publication/2-ass-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/publication/2-ass-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overlapping post-seismic deformation processes: afterslip and viscoelastic relaxation following the 2011 Mw 9.0 Tohoku (Japan) earthquake</title>
+      <link>https://huihuiweng.github.io/publication/1-gji-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/publication/1-gji-2014/</guid>
       <description></description>
     </item>
     
