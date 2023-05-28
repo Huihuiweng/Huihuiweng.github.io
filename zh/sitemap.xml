@@ -2,30 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://huihuiweng.github.io/publication-type/2/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://huihuiweng.github.io/en/publication-type/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://huihuiweng.github.io/publication-type/2/"
-                />
-  </url><url>
-    <loc>https://huihuiweng.github.io/preprint/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <loc>https://huihuiweng.github.io/publication-type/0/</loc>
+    <lastmod>2023-01-09T10:23:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://huihuiweng.github.io/publication/13-nc-2022/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <loc>https://huihuiweng.github.io/publication/preprint/s9/</loc>
+    <lastmod>2023-01-09T10:23:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://huihuiweng.github.io/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-09T10:23:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -39,7 +25,7 @@
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/publication_types/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-09T10:23:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -53,66 +39,110 @@
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/publication/</loc>
+    <lastmod>2023-01-09T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/publication/preprint/</loc>
+    <lastmod>2023-01-09T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/publication/preprint/s8/</loc>
+    <lastmod>2023-01-08T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/publication/preprint/s7/</loc>
+    <lastmod>2023-01-07T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/publication/preprint/s6/</loc>
+    <lastmod>2023-01-06T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/publication/preprint/s4/</loc>
+    <lastmod>2023-01-04T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/publication/preprint/s3/</loc>
+    <lastmod>2023-01-03T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/publication-type/2/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/publication/journal_papers/13-nc-2022/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/publication/journal_papers/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/publication/journal_papers/12-ng-2020/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/publication/journal_papers/11-grl-2020/</loc>
+    <lastmod>2020-01-03T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/publication/journal_papers/9-jgr-2019/</loc>
+    <lastmod>2019-09-12T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/publication/journal_papers/10-jgr-2019/</loc>
+    <lastmod>2019-07-30T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/publication/journal_papers/8-jgr-2018/</loc>
+    <lastmod>2018-07-24T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/publication/journal_papers/7-grl-2017/</loc>
+    <lastmod>2017-03-17T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/publication/journal_papers/6-jgr-2016/</loc>
+    <lastmod>2016-05-20T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/publication/journal_papers/5-grl-2016/</loc>
+    <lastmod>2016-01-28T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/publication/journal_papers/4-grl-2015/</loc>
+    <lastmod>2015-06-03T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/publication/journal_papers/3-jgg-2015/</loc>
+    <lastmod>2015-01-01T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/publication/journal_papers/2-ass-2015/</loc>
+    <lastmod>2015-01-01T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/publication/journal_papers/1-gji-2014/</loc>
+    <lastmod>2014-01-01T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/tag/source-themes/</loc>
+    <lastmod>2014-01-01T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/tags/</loc>
+    <lastmod>2014-01-01T10:23:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://huihuiweng.github.io/en/publication/"
+                href="https://huihuiweng.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://huihuiweng.github.io/publication/"
+                href="https://huihuiweng.github.io/tags/"
                 />
-  </url><url>
-    <loc>https://huihuiweng.github.io/publication/12-ng-2020/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://huihuiweng.github.io/publication/11-grl-2020/</loc>
-    <lastmod>2020-01-03T10:23:57+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://huihuiweng.github.io/publication/9-jgr-2019/</loc>
-    <lastmod>2019-09-12T10:23:57+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://huihuiweng.github.io/publication/10-jgr-2019/</loc>
-    <lastmod>2019-07-30T10:23:57+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://huihuiweng.github.io/publication/8-jgr-2018/</loc>
-    <lastmod>2018-07-24T10:23:57+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://huihuiweng.github.io/publication/7-grl-2017/</loc>
-    <lastmod>2017-03-17T10:23:57+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://huihuiweng.github.io/publication/6-jgr-2016/</loc>
-    <lastmod>2016-05-20T10:23:57+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://huihuiweng.github.io/publication/5-grl-2016/</loc>
-    <lastmod>2016-01-28T10:23:57+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://huihuiweng.github.io/publication/4-grl-2015/</loc>
-    <lastmod>2015-06-03T10:23:57+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://huihuiweng.github.io/publication/3-jgg-2015/</loc>
-    <lastmod>2015-01-01T10:23:57+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://huihuiweng.github.io/publication/2-ass-2015/</loc>
-    <lastmod>2015-01-01T10:23:57+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://huihuiweng.github.io/publication/1-gji-2014/</loc>
-    <lastmod>2014-01-01T10:23:57+08:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://huihuiweng.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
@@ -138,19 +168,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://huihuiweng.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://huihuiweng.github.io/tags/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://huihuiweng.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://huihuiweng.github.io/tags/"
                 />
   </url>
 </urlset>
