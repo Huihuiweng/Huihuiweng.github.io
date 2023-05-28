@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dynamic rupture simulation | 南大震源物理</title>
+    <link>https://huihuiweng.github.io/tag/dynamic-rupture-simulation/</link>
+      <atom:link href="https://huihuiweng.github.io/tag/dynamic-rupture-simulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dynamic rupture simulation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 24 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://huihuiweng.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Dynamic rupture simulation</title>
+      <link>https://huihuiweng.github.io/tag/dynamic-rupture-simulation/</link>
+    </image>
+    
+    <item>
+      <title>尼泊尔地震的动态破裂模型</title>
+      <link>https://huihuiweng.github.io/project/dynamic_rupture_simulations/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://huihuiweng.github.io/project/dynamic_rupture_simulations/</guid>
+      <description>&lt;p&gt;By utilizing different trade-off patterns of source parameters and multiple observations for the first time, we can determine the frictional parameters of the seismogenic fault. The best fit dynamic model yields a Dc (slip-weakening distance) value of ~0.6 m, in contrast to the previous kinematical estimation of ~5 m.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

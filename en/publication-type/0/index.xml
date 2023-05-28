@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>0 | Weng&#39;s Homepage</title>
+    <title>0 | 南大震源物理</title>
     <link>https://huihuiweng.github.io/en/publication-type/0/</link>
       <atom:link href="https://huihuiweng.github.io/en/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 May 2023 10:23:57 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 10:23:57 +0800</lastBuildDate>
     <image>
       <url>https://huihuiweng.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>0</title>
@@ -13,10 +13,50 @@
     </image>
     
     <item>
-      <title>2019 JGR</title>
-      <link>https://huihuiweng.github.io/en/publication/2019-jgr/</link>
-      <pubDate>Sat, 27 May 2023 10:23:57 +0800</pubDate>
-      <guid>https://huihuiweng.github.io/en/publication/2019-jgr/</guid>
+      <title>Dynamics of the process zone and multiple rupture fronts controlled by velocity-dependent friction</title>
+      <link>https://huihuiweng.github.io/en/publication/preprint/s9/</link>
+      <pubDate>Mon, 09 Jan 2023 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/en/publication/preprint/s9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical modelling of earthquake cycles based on Navier-Stokes equations with Viscoelastic-plasticity rheology</title>
+      <link>https://huihuiweng.github.io/en/publication/preprint/s8/</link>
+      <pubDate>Sun, 08 Jan 2023 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/en/publication/preprint/s8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics-based estimates of the maximum magnitude  of induced earthquakes in the Groningen gas field (application part)</title>
+      <link>https://huihuiweng.github.io/en/publication/preprint/s7/</link>
+      <pubDate>Sat, 07 Jan 2023 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/en/publication/preprint/s7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics-based estimates of the maximum magnitude of induced earthquakes in the Groningen gas field – part I: theoretical validation</title>
+      <link>https://huihuiweng.github.io/en/publication/preprint/s6/</link>
+      <pubDate>Fri, 06 Jan 2023 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/en/publication/preprint/s6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward assessing seismic hazard from laboratory observations of rate-and-state frictional parameters</title>
+      <link>https://huihuiweng.github.io/en/publication/preprint/s4/</link>
+      <pubDate>Wed, 04 Jan 2023 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/en/publication/preprint/s4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The theoretical energy release rate of in-plane elongated ruptures</title>
+      <link>https://huihuiweng.github.io/en/publication/preprint/s3/</link>
+      <pubDate>Tue, 03 Jan 2023 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/en/publication/preprint/s3/</guid>
       <description></description>
     </item>
     
