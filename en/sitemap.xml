@@ -111,6 +111,20 @@
                 href="https://huihuiweng.github.io/en/publication/preprint/s9/"
                 />
   </url><url>
+    <loc>https://huihuiweng.github.io/en/publication/preprint/</loc>
+    <lastmod>2023-01-09T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://huihuiweng.github.io/publication/preprint/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://huihuiweng.github.io/en/publication/preprint/"
+                />
+  </url><url>
     <loc>https://huihuiweng.github.io/en/publication_types/</loc>
     <lastmod>2023-01-09T10:23:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -137,20 +151,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://huihuiweng.github.io/en/publication/"
-                />
-  </url><url>
-    <loc>https://huihuiweng.github.io/en/publication/preprint/</loc>
-    <lastmod>2023-01-09T10:23:57+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://huihuiweng.github.io/publication/preprint/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://huihuiweng.github.io/en/publication/preprint/"
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/en/publication/preprint/s8/</loc>
@@ -237,6 +237,20 @@
                 href="https://huihuiweng.github.io/en/publication-type/2/"
                 />
   </url><url>
+    <loc>https://huihuiweng.github.io/en/project/slow_and_fast_eqs/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://huihuiweng.github.io/project/slow_and_fast_eqs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://huihuiweng.github.io/en/project/slow_and_fast_eqs/"
+                />
+  </url><url>
     <loc>https://huihuiweng.github.io/en/publication/journal_papers/13-nc-2022/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -249,6 +263,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://huihuiweng.github.io/en/publication/journal_papers/13-nc-2022/"
+                />
+  </url><url>
+    <loc>https://huihuiweng.github.io/en/publication/journal_papers/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://huihuiweng.github.io/publication/journal_papers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://huihuiweng.github.io/en/publication/journal_papers/"
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/en/project/</loc>
@@ -293,34 +321,6 @@
                 href="https://huihuiweng.github.io/en/tags/"
                 />
   </url><url>
-    <loc>https://huihuiweng.github.io/en/publication/journal_papers/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://huihuiweng.github.io/publication/journal_papers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://huihuiweng.github.io/en/publication/journal_papers/"
-                />
-  </url><url>
-    <loc>https://huihuiweng.github.io/en/project/slow_and_fast_eqs/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://huihuiweng.github.io/project/slow_and_fast_eqs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://huihuiweng.github.io/en/project/slow_and_fast_eqs/"
-                />
-  </url><url>
     <loc>https://huihuiweng.github.io/en/teaching/2022-seismology/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -363,20 +363,6 @@
                 href="https://huihuiweng.github.io/en/publication/journal_papers/12-ng-2020/"
                 />
   </url><url>
-    <loc>https://huihuiweng.github.io/en/tag/supershear-earthuakes/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://huihuiweng.github.io/tag/supershear-earthuakes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://huihuiweng.github.io/en/tag/supershear-earthuakes/"
-                />
-  </url><url>
     <loc>https://huihuiweng.github.io/en/project/supershear_eqs/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -389,6 +375,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://huihuiweng.github.io/en/project/supershear_eqs/"
+                />
+  </url><url>
+    <loc>https://huihuiweng.github.io/en/tag/supershear-earthuakes/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://huihuiweng.github.io/tag/supershear-earthuakes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://huihuiweng.github.io/en/tag/supershear-earthuakes/"
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/en/publication/journal_papers/11-grl-2020/</loc>
@@ -433,20 +433,6 @@
                 href="https://huihuiweng.github.io/en/teaching/ictp/"
                 />
   </url><url>
-    <loc>https://huihuiweng.github.io/en/tag/rupture-dynamics/</loc>
-    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://huihuiweng.github.io/tag/rupture-dynamics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://huihuiweng.github.io/en/tag/rupture-dynamics/"
-                />
-  </url><url>
     <loc>https://huihuiweng.github.io/en/project/equation-of-motion/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -459,6 +445,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://huihuiweng.github.io/en/project/equation-of-motion/"
+                />
+  </url><url>
+    <loc>https://huihuiweng.github.io/en/tag/rupture-dynamics/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://huihuiweng.github.io/tag/rupture-dynamics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://huihuiweng.github.io/en/tag/rupture-dynamics/"
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/en/publication/journal_papers/10-jgr-2019/</loc>

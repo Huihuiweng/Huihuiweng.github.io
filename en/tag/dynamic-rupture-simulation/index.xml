@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dynamic rupture simulation | 南大震源物理</title>
+    <title>Dynamic rupture simulation | 南大震源物理 NJU</title>
     <link>https://huihuiweng.github.io/en/tag/dynamic-rupture-simulation/</link>
       <atom:link href="https://huihuiweng.github.io/en/tag/dynamic-rupture-simulation/index.xml" rel="self" type="application/rss+xml" />
     <description>Dynamic rupture simulation</description>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>尼泊尔地震的动态破裂模型</title>
+      <title>Dynamic rupture simulation for the 2015 Mw7.8 Nepal earthquake</title>
       <link>https://huihuiweng.github.io/en/project/dynamic_rupture_simulations/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://huihuiweng.github.io/en/project/dynamic_rupture_simulations/</guid>
