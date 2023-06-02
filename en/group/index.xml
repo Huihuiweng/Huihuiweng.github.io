@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Groups | 南大震源物理 NJU</title>
+    <title>Groups | NJU Seismology</title>
     <link>https://huihuiweng.github.io/en/group/</link>
       <atom:link href="https://huihuiweng.github.io/en/group/index.xml" rel="self" type="application/rss+xml" />
     <description>Groups</description>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>赵德政</title>
+      <title>Dezheng Zhao</title>
       <link>https://huihuiweng.github.io/en/group/dezhenzhao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://huihuiweng.github.io/en/group/dezhenzhao/</guid>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>高艺</title>
+      <title>Yi Gao</title>
       <link>https://huihuiweng.github.io/en/group/yigao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://huihuiweng.github.io/en/group/yigao/</guid>
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>史乙然</title>
+      <title>Yiran Shi</title>
       <link>https://huihuiweng.github.io/en/group/yiranshi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://huihuiweng.github.io/en/group/yiranshi/</guid>
@@ -37,7 +37,7 @@
     </item>
     
     <item>
-      <title>尚王阳</title>
+      <title>Wangyang Shang</title>
       <link>https://huihuiweng.github.io/en/group/wangyangshang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://huihuiweng.github.io/en/group/wangyangshang/</guid>

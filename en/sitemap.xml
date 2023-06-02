@@ -41,6 +41,32 @@
                 href="https://huihuiweng.github.io/en/group/yigao/"
                 />
   </url><url>
+    <loc>https://huihuiweng.github.io/en/group/yiranshi/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://huihuiweng.github.io/group/yiranshi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://huihuiweng.github.io/en/group/yiranshi/"
+                />
+  </url><url>
+    <loc>https://huihuiweng.github.io/en/group/wangyangshang/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://huihuiweng.github.io/group/wangyangshang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://huihuiweng.github.io/en/group/wangyangshang/"
+                />
+  </url><url>
     <loc>https://huihuiweng.github.io/en/news/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -679,32 +705,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://huihuiweng.github.io/en/group/"
-                />
-  </url><url>
-    <loc>https://huihuiweng.github.io/en/group/yiranshi/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://huihuiweng.github.io/group/yiranshi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://huihuiweng.github.io/en/group/yiranshi/"
-                />
-  </url><url>
-    <loc>https://huihuiweng.github.io/en/group/wangyangshang/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://huihuiweng.github.io/group/wangyangshang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://huihuiweng.github.io/en/group/wangyangshang/"
                 />
   </url>
 </urlset>
