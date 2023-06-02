@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://huihuiweng.github.io/en/graduate/students/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://huihuiweng.github.io/graduate/students/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://huihuiweng.github.io/en/graduate/students/"
+                />
+  </url><url>
     <loc>https://huihuiweng.github.io/en/group/dezhenzhao/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -26,6 +39,48 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://huihuiweng.github.io/en/group/yigao/"
+                />
+  </url><url>
+    <loc>https://huihuiweng.github.io/en/news/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://huihuiweng.github.io/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://huihuiweng.github.io/en/news/"
+                />
+  </url><url>
+    <loc>https://huihuiweng.github.io/en/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://huihuiweng.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://huihuiweng.github.io/en/"
+                />
+  </url><url>
+    <loc>https://huihuiweng.github.io/en/news/2023-summer-school/</loc>
+    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://huihuiweng.github.io/news/2023-summer-school/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://huihuiweng.github.io/en/news/2023-summer-school/"
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/en/publication-type/0/</loc>
@@ -54,20 +109,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://huihuiweng.github.io/en/publication/preprint/s9/"
-                />
-  </url><url>
-    <loc>https://huihuiweng.github.io/en/</loc>
-    <lastmod>2023-01-09T10:23:57+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://huihuiweng.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://huihuiweng.github.io/en/"
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/en/publication_types/</loc>
@@ -392,6 +433,34 @@
                 href="https://huihuiweng.github.io/en/teaching/ictp/"
                 />
   </url><url>
+    <loc>https://huihuiweng.github.io/en/tag/rupture-dynamics/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://huihuiweng.github.io/tag/rupture-dynamics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://huihuiweng.github.io/en/tag/rupture-dynamics/"
+                />
+  </url><url>
+    <loc>https://huihuiweng.github.io/en/project/equation-of-motion/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://huihuiweng.github.io/project/equation-of-motion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://huihuiweng.github.io/en/project/equation-of-motion/"
+                />
+  </url><url>
     <loc>https://huihuiweng.github.io/en/publication/journal_papers/10-jgr-2019/</loc>
     <lastmod>2019-07-30T10:23:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -584,6 +653,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://huihuiweng.github.io/en/categories/"
+                />
+  </url><url>
+    <loc>https://huihuiweng.github.io/en/graduate/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://huihuiweng.github.io/graduate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://huihuiweng.github.io/en/graduate/"
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/en/group/</loc>

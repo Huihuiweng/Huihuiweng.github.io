@@ -5,12 +5,20 @@
     <link>https://huihuiweng.github.io/en/</link>
       <atom:link href="https://huihuiweng.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <description>NJU</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 10:23:57 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://huihuiweng.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>NJU</title>
       <link>https://huihuiweng.github.io/en/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>https://huihuiweng.github.io/en/graduate/students/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://huihuiweng.github.io/en/graduate/students/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>赵德政</title>
@@ -25,6 +33,14 @@
       <link>https://huihuiweng.github.io/en/group/yigao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://huihuiweng.github.io/en/group/yigao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>优秀大学生夏令营</title>
+      <link>https://huihuiweng.github.io/en/news/2023-summer-school/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://huihuiweng.github.io/en/news/2023-summer-school/</guid>
       <description></description>
     </item>
     
@@ -143,6 +159,14 @@
       <link>https://huihuiweng.github.io/en/teaching/ictp/</link>
       <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://huihuiweng.github.io/en/teaching/ictp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>地震破裂的新理论</title>
+      <link>https://huihuiweng.github.io/en/project/equation-of-motion/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://huihuiweng.github.io/en/project/equation-of-motion/</guid>
       <description></description>
     </item>
     
