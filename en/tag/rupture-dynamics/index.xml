@@ -17,7 +17,10 @@
       <link>https://huihuiweng.github.io/en/project/equation-of-motion/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://huihuiweng.github.io/en/project/equation-of-motion/</guid>
-      <description></description>
+      <description>&lt;p&gt;The dynamics of ruptures in 3-D dynamic rupture simulations can be well described by the following inertial equation-of-motion:&lt;/p&gt;
+&lt;p&gt;$F(G_c/G_0) = M(v_r) \cdot \dot{v}_r$&lt;/p&gt;
+&lt;p&gt;where $G_c$ is the fracture energy, $G_0$ is the static energy release rate, $v_r$ is the ruptuer speed, $\dot{v}_r$ is the rupture acceleration, $F()$ and $M()$ are the known &amp;ldquo;Force&amp;rdquo; and &amp;ldquo;Mass&amp;rdquo; terms.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

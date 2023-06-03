@@ -17,7 +17,10 @@
       <link>https://huihuiweng.github.io/project/equation-of-motion/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://huihuiweng.github.io/project/equation-of-motion/</guid>
-      <description></description>
+      <description>&lt;p&gt;有限断层宽度的地震破裂过程可以由如下三维破裂运动方程描述：&lt;/p&gt;
+&lt;p&gt;$F(G_c/G_0) = M(v_r) \cdot \dot{v}_r$&lt;/p&gt;
+&lt;p&gt;其中$G_c$为破裂能，$G_0$为静态弹性能，$v_r$为破裂速度，$\dot{v}_r$为破裂加速度，$F()$和$M()$分别为已知的“力源”项和“质量”项。&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NJU | 南大震源物理</title>
+    <title>Weng | 南大震源物理</title>
     <link>https://huihuiweng.github.io/</link>
       <atom:link href="https://huihuiweng.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>NJU</description>
+    <description>Weng</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://huihuiweng.github.io/media/icon_hufbed64fb522ad0a536cde2964c5f9ea8_533973_512x512_fill_lanczos_center_3.png</url>
-      <title>NJU</title>
+      <title>Weng</title>
       <link>https://huihuiweng.github.io/</link>
     </image>
     
@@ -167,7 +167,10 @@
       <link>https://huihuiweng.github.io/project/equation-of-motion/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://huihuiweng.github.io/project/equation-of-motion/</guid>
-      <description></description>
+      <description>&lt;p&gt;有限断层宽度的地震破裂过程可以由如下三维破裂运动方程描述：&lt;/p&gt;
+&lt;p&gt;$F(G_c/G_0) = M(v_r) \cdot \dot{v}_r$&lt;/p&gt;
+&lt;p&gt;其中$G_c$为破裂能，$G_0$为静态弹性能，$v_r$为破裂速度，$\dot{v}_r$为破裂加速度，$F()$和$M()$分别为已知的“力源”项和“质量”项。&lt;/p&gt;
+</description>
     </item>
     
     <item>
