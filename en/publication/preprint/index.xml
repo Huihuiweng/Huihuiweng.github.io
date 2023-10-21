@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Non-peer-review papers | NJU Seismology</title>
+    <title>未经同行评审论文 | NJU Seismology</title>
     <link>https://huihuiweng.github.io/en/publication/preprint/</link>
       <atom:link href="https://huihuiweng.github.io/en/publication/preprint/index.xml" rel="self" type="application/rss+xml" />
-    <description>Non-peer-review papers</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 10:23:57 +0800</lastBuildDate>
+    <description>未经同行评审论文</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 10:23:57 +0800</lastBuildDate>
     <image>
       <url>https://huihuiweng.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>Non-peer-review papers</title>
+      <title>未经同行评审论文</title>
       <link>https://huihuiweng.github.io/en/publication/preprint/</link>
     </image>
+    
+    <item>
+      <title>Physics-based assessment of earthquake potential on the Anninghe-Zemuhe-Daliangshan fault system in southwestern China</title>
+      <link>https://huihuiweng.github.io/en/publication/preprint/s11/</link>
+      <pubDate>Sun, 01 Oct 2023 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/en/publication/preprint/s11/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamics of the process zone and multiple rupture fronts controlled by velocity-dependent friction</title>
       <link>https://huihuiweng.github.io/en/publication/preprint/s9/</link>
       <pubDate>Mon, 09 Jan 2023 10:23:57 +0800</pubDate>
       <guid>https://huihuiweng.github.io/en/publication/preprint/s9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Numerical modelling of earthquake cycles based on Navier-Stokes equations with Viscoelastic-plasticity rheology</title>
-      <link>https://huihuiweng.github.io/en/publication/preprint/s8/</link>
-      <pubDate>Sun, 08 Jan 2023 10:23:57 +0800</pubDate>
-      <guid>https://huihuiweng.github.io/en/publication/preprint/s8/</guid>
       <description></description>
     </item>
     
