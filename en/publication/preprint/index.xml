@@ -5,7 +5,7 @@
     <link>https://huihuiweng.github.io/en/publication/preprint/</link>
       <atom:link href="https://huihuiweng.github.io/en/publication/preprint/index.xml" rel="self" type="application/rss+xml" />
     <description>未经同行评审论文</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 10:23:57 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 10:23:57 +0800</lastBuildDate>
     <image>
       <url>https://huihuiweng.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>未经同行评审论文</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Unbounded terminal speeds of frictional ruptures</title>
-      <link>https://huihuiweng.github.io/en/publication/preprint/s12/</link>
-      <pubDate>Wed, 01 Nov 2023 10:23:57 +0800</pubDate>
-      <guid>https://huihuiweng.github.io/en/publication/preprint/s12/</guid>
+      <title>An updated fault coupling model along major block-bounding faults on the eastern and northeastern Tibetan Plateau from a stress-constrained inversion of GPS and InSAR data</title>
+      <link>https://huihuiweng.github.io/en/publication/preprint/s13/</link>
+      <pubDate>Fri, 01 Dec 2023 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/en/publication/preprint/s13/</guid>
       <description></description>
     </item>
     
@@ -65,6 +65,14 @@
       <link>https://huihuiweng.github.io/en/publication/preprint/s3/</link>
       <pubDate>Tue, 03 Jan 2023 10:23:57 +0800</pubDate>
       <guid>https://huihuiweng.github.io/en/publication/preprint/s3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unbounded terminal speeds of frictional ruptures</title>
+      <link>https://huihuiweng.github.io/en/publication/preprint/s12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://huihuiweng.github.io/en/publication/preprint/s12/</guid>
       <description></description>
     </item>
     
