@@ -68,7 +68,7 @@
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/en/publication-type/0/</loc>
-    <lastmod>2023-12-01T10:23:57+08:00</lastmod>
+    <lastmod>2024-03-01T10:23:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -81,8 +81,36 @@
                 href="https://huihuiweng.github.io/en/publication-type/0/"
                 />
   </url><url>
+    <loc>https://huihuiweng.github.io/en/publication-type/2/</loc>
+    <lastmod>2024-03-01T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://huihuiweng.github.io/publication-type/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://huihuiweng.github.io/en/publication-type/2/"
+                />
+  </url><url>
+    <loc>https://huihuiweng.github.io/en/publication/journal_papers/15-jgr-2024/</loc>
+    <lastmod>2024-03-01T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://huihuiweng.github.io/publication/journal_papers/15-jgr-2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://huihuiweng.github.io/en/publication/journal_papers/15-jgr-2024/"
+                />
+  </url><url>
     <loc>https://huihuiweng.github.io/en/</loc>
-    <lastmod>2023-12-01T10:23:57+08:00</lastmod>
+    <lastmod>2024-03-01T10:23:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -96,7 +124,7 @@
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/en/publication_types/</loc>
-    <lastmod>2023-12-01T10:23:57+08:00</lastmod>
+    <lastmod>2024-03-01T10:23:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -110,7 +138,7 @@
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/en/publication/</loc>
-    <lastmod>2023-12-01T10:23:57+08:00</lastmod>
+    <lastmod>2024-03-01T10:23:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -124,7 +152,7 @@
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/en/publication/preprint/s13/</loc>
-    <lastmod>2023-12-01T10:23:57+08:00</lastmod>
+    <lastmod>2024-03-01T10:23:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -137,8 +165,22 @@
                 href="https://huihuiweng.github.io/en/publication/preprint/s13/"
                 />
   </url><url>
+    <loc>https://huihuiweng.github.io/en/publication/journal_papers/</loc>
+    <lastmod>2024-03-01T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://huihuiweng.github.io/publication/journal_papers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://huihuiweng.github.io/en/publication/journal_papers/"
+                />
+  </url><url>
     <loc>https://huihuiweng.github.io/en/publication/preprint/</loc>
-    <lastmod>2023-12-01T10:23:57+08:00</lastmod>
+    <lastmod>2024-03-01T10:23:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -149,20 +191,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://huihuiweng.github.io/en/publication/preprint/"
-                />
-  </url><url>
-    <loc>https://huihuiweng.github.io/en/publication-type/2/</loc>
-    <lastmod>2023-10-08T10:23:57+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://huihuiweng.github.io/publication-type/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://huihuiweng.github.io/en/publication-type/2/"
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/en/publication/journal_papers/14-gc-2023/</loc>
@@ -179,20 +207,6 @@
                 href="https://huihuiweng.github.io/en/publication/journal_papers/14-gc-2023/"
                 />
   </url><url>
-    <loc>https://huihuiweng.github.io/en/publication/journal_papers/</loc>
-    <lastmod>2023-10-08T10:23:57+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://huihuiweng.github.io/publication/journal_papers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://huihuiweng.github.io/en/publication/journal_papers/"
-                />
-  </url><url>
     <loc>https://huihuiweng.github.io/en/publication/preprint/s12/</loc>
     <lastmod>2023-10-01T10:23:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -205,20 +219,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://huihuiweng.github.io/en/publication/preprint/s12/"
-                />
-  </url><url>
-    <loc>https://huihuiweng.github.io/en/publication/preprint/s11/</loc>
-    <lastmod>2023-09-01T10:23:57+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://huihuiweng.github.io/publication/preprint/s11/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://huihuiweng.github.io/en/publication/preprint/s11/"
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/en/news/2023-summer-school/</loc>
