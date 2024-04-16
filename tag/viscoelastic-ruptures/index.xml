@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viscoelastic ruptures | 南大震源物理</title>
+    <link>https://huihuiweng.github.io/tag/viscoelastic-ruptures/</link>
+      <atom:link href="https://huihuiweng.github.io/tag/viscoelastic-ruptures/index.xml" rel="self" type="application/rss+xml" />
+    <description>Viscoelastic ruptures</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://huihuiweng.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Viscoelastic ruptures</title>
+      <link>https://huihuiweng.github.io/tag/viscoelastic-ruptures/</link>
+    </image>
+    
+    <item>
+      <title>粘弹性破裂可以超越传统极限速度</title>
+      <link>https://huihuiweng.github.io/project/viscoelastic_ruptures/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://huihuiweng.github.io/project/viscoelastic_ruptures/</guid>
+      <description>&lt;p&gt;Classical theories using linear elasticity predict that crack propagation is bounded by a limiting speed, beyond which the energy balance becomes unphysical. Recent experiments in viscoelastic materials demonstrated that both tensile and frictional crack propagation can exceed classical speed limits.
+However, the fundamental physics governing unbounded rupture speeds are still unclear.
+Numerical simulations show that frictional ruptures in viscoelasticity can propagate at a continuum of terminal speeds that are not bounded by the classical speed limit.
+All simulated rupture speeds are predicted by the newly developed theory of fracture mechanics incorporating viscoelasticity via the principle of energy balance.
+In addition to the ratio of the fracture energy to the static energy release rate that can be used to uniquely predict the rupture propagation in linear elasticity, the scales of characteristic lengths in viscoelasticity also govern the energy balance.
+Beyond the classical speed limit, the energy balance becomes independent of any macroscopic length and is controlled only by the local properties around the rupture tip.
+These numerical and theoretical findings fundamentally advance our understanding of dynamic rupture propagation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

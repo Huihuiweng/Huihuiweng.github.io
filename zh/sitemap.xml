@@ -41,6 +41,56 @@
                 href="https://huihuiweng.github.io/group/yigao/"
                 />
   </url><url>
+    <loc>https://huihuiweng.github.io/project/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://huihuiweng.github.io/en/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://huihuiweng.github.io/project/"
+                />
+  </url><url>
+    <loc>https://huihuiweng.github.io/tags/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://huihuiweng.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://huihuiweng.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://huihuiweng.github.io/tag/viscoelastic-ruptures/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://huihuiweng.github.io/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://huihuiweng.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://huihuiweng.github.io/"
+                />
+  </url><url>
+    <loc>https://huihuiweng.github.io/project/viscoelastic_ruptures/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://huihuiweng.github.io/publication-type/0/</loc>
     <lastmod>2024-03-01T10:23:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -123,20 +173,6 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="https://huihuiweng.github.io/publication/preprint/s13/"
-                />
-  </url><url>
-    <loc>https://huihuiweng.github.io/</loc>
-    <lastmod>2024-03-01T10:23:57+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://huihuiweng.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://huihuiweng.github.io/"
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/publication/journal_papers/</loc>
@@ -311,20 +347,6 @@
                 href="https://huihuiweng.github.io/publication/journal_papers/13-nc-2022/"
                 />
   </url><url>
-    <loc>https://huihuiweng.github.io/project/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://huihuiweng.github.io/en/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://huihuiweng.github.io/project/"
-                />
-  </url><url>
     <loc>https://huihuiweng.github.io/tag/slow-earthquakes/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -337,20 +359,6 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="https://huihuiweng.github.io/tag/slow-earthquakes/"
-                />
-  </url><url>
-    <loc>https://huihuiweng.github.io/tags/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://huihuiweng.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://huihuiweng.github.io/tags/"
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/project/slow_and_fast_eqs/</loc>
