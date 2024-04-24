@@ -5,7 +5,7 @@
     <link>https://huihuiweng.github.io/en/</link>
       <atom:link href="https://huihuiweng.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <description>NJU</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 10:23:57 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 10:23:57 +0800</lastBuildDate>
     <image>
       <url>https://huihuiweng.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>NJU</title>
@@ -49,6 +49,14 @@
       <link>https://huihuiweng.github.io/en/group/wangyangshang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://huihuiweng.github.io/en/group/wangyangshang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theoretical model for physics-based estimation of maximum earthquake sizes</title>
+      <link>https://huihuiweng.github.io/en/publication/preprint/s6/</link>
+      <pubDate>Mon, 01 Apr 2024 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/en/publication/preprint/s6/</guid>
       <description></description>
     </item>
     
@@ -105,14 +113,6 @@
       <link>https://huihuiweng.github.io/en/publication/preprint/s7/</link>
       <pubDate>Sat, 07 Jan 2023 10:23:57 +0800</pubDate>
       <guid>https://huihuiweng.github.io/en/publication/preprint/s7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Physics-based estimates of the maximum magnitude of induced earthquakes in the Groningen gas field – part I: theoretical validation</title>
-      <link>https://huihuiweng.github.io/en/publication/preprint/s6/</link>
-      <pubDate>Fri, 06 Jan 2023 10:23:57 +0800</pubDate>
-      <guid>https://huihuiweng.github.io/en/publication/preprint/s6/</guid>
       <description></description>
     </item>
     
