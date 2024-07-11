@@ -170,10 +170,30 @@
     <loc>https://huihuiweng.github.io/tag/viscoelastic-ruptures/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://huihuiweng.github.io/en/tag/viscoelastic-ruptures/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://huihuiweng.github.io/tag/viscoelastic-ruptures/"
+                />
   </url><url>
     <loc>https://huihuiweng.github.io/project/viscoelastic_ruptures/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://huihuiweng.github.io/en/project/viscoelastic_ruptures/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://huihuiweng.github.io/project/viscoelastic_ruptures/"
+                />
   </url><url>
     <loc>https://huihuiweng.github.io/publication-type/2/</loc>
     <lastmod>2024-03-01T10:23:57+08:00</lastmod>

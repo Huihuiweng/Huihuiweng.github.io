@@ -69,6 +69,21 @@
     </item>
     
     <item>
+      <title>Viscoelastic ruptures</title>
+      <link>https://huihuiweng.github.io/en/project/viscoelastic_ruptures/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://huihuiweng.github.io/en/project/viscoelastic_ruptures/</guid>
+      <description>&lt;p&gt;Classical theories using linear elasticity predict that crack propagation is bounded by a limiting speed, beyond which the energy balance becomes unphysical. Recent experiments in viscoelastic materials demonstrated that both tensile and frictional crack propagation can exceed classical speed limits.
+However, the fundamental physics governing unbounded rupture speeds are still unclear.
+Numerical simulations show that frictional ruptures in viscoelasticity can propagate at a continuum of terminal speeds that are not bounded by the classical speed limit.
+All simulated rupture speeds are predicted by the newly developed theory of fracture mechanics incorporating viscoelasticity via the principle of energy balance.
+In addition to the ratio of the fracture energy to the static energy release rate that can be used to uniquely predict the rupture propagation in linear elasticity, the scales of characteristic lengths in viscoelasticity also govern the energy balance.
+Beyond the classical speed limit, the energy balance becomes independent of any macroscopic length and is controlled only by the local properties around the rupture tip.
+These numerical and theoretical findings fundamentally advance our understanding of dynamic rupture propagation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An updated fault coupling model along major block-bounding faults on the eastern and northeastern Tibetan Plateau from a stress-constrained inversion of GPS and InSAR data</title>
       <link>https://huihuiweng.github.io/en/publication/journal_papers/15-jgr-2024/</link>
       <pubDate>Fri, 01 Mar 2024 10:23:57 +0800</pubDate>
@@ -133,7 +148,15 @@
     </item>
     
     <item>
-      <title>A new theory connects slow and fast earthquakes</title>
+      <title>Integrated rupture mechanics for slow slip events and earthquakes</title>
+      <link>https://huihuiweng.github.io/en/publication/journal_papers/13-nc-2022/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://huihuiweng.github.io/en/publication/journal_papers/13-nc-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slow and fast earthquakes</title>
       <link>https://huihuiweng.github.io/en/project/slow_and_fast_eqs/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://huihuiweng.github.io/en/project/slow_and_fast_eqs/</guid>
@@ -141,14 +164,6 @@
 &lt;p&gt;We found that both slow and fast earthquakes can be understood by a new theory of dynamic fracture mechanics. This theory accounts for an essential ingredient that was missing in previous models and experiments, the “finite seismogenic depth”: the portion of the fault that slides during a large event has a limited depth extent, shorter than its horizontal length. The predictions of the new model are supported by validations against earthquake simulations and observations.&lt;/p&gt;
 &lt;p&gt;The work provides insight on how earthquakes can develop a broad spectrum of rupture speeds, from arbitrarily slow ones to seismic wave speeds.  In particular, the new model shows how earthquake rupture speed is controlled by a non-dimensional number arising from energy balance: the ratio between the available elastic energy and the energy dissipated by fault slip. The model also reconciles the debated observations of the relation between magnitude and duration of slow slip events. It explains how this relation can be similar to that of regular earthquakes when focusing on events from a single region, but radically different when combining observations from multiple regions.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Integrated rupture mechanics for slow slip events and earthquakes</title>
-      <link>https://huihuiweng.github.io/en/publication/journal_papers/13-nc-2022/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://huihuiweng.github.io/en/publication/journal_papers/13-nc-2022/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -168,7 +183,7 @@
     </item>
     
     <item>
-      <title>A new model found to predict earthquake propagation speed</title>
+      <title>Supershear ruptures</title>
       <link>https://huihuiweng.github.io/en/project/supershear_eqs/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://huihuiweng.github.io/en/project/supershear_eqs/</guid>
@@ -204,7 +219,7 @@ hypocenter, and then spreads over the entire fault at a speed known as the &amp;
     </item>
     
     <item>
-      <title>New theory for elongated ruptures</title>
+      <title>New 3D rupture theory</title>
       <link>https://huihuiweng.github.io/en/project/equation-of-motion/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://huihuiweng.github.io/en/project/equation-of-motion/</guid>

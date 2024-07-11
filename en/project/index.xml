@@ -5,7 +5,7 @@
     <link>https://huihuiweng.github.io/en/project/</link>
       <atom:link href="https://huihuiweng.github.io/en/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://huihuiweng.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,7 +13,22 @@
     </image>
     
     <item>
-      <title>A new theory connects slow and fast earthquakes</title>
+      <title>Viscoelastic ruptures</title>
+      <link>https://huihuiweng.github.io/en/project/viscoelastic_ruptures/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://huihuiweng.github.io/en/project/viscoelastic_ruptures/</guid>
+      <description>&lt;p&gt;Classical theories using linear elasticity predict that crack propagation is bounded by a limiting speed, beyond which the energy balance becomes unphysical. Recent experiments in viscoelastic materials demonstrated that both tensile and frictional crack propagation can exceed classical speed limits.
+However, the fundamental physics governing unbounded rupture speeds are still unclear.
+Numerical simulations show that frictional ruptures in viscoelasticity can propagate at a continuum of terminal speeds that are not bounded by the classical speed limit.
+All simulated rupture speeds are predicted by the newly developed theory of fracture mechanics incorporating viscoelasticity via the principle of energy balance.
+In addition to the ratio of the fracture energy to the static energy release rate that can be used to uniquely predict the rupture propagation in linear elasticity, the scales of characteristic lengths in viscoelasticity also govern the energy balance.
+Beyond the classical speed limit, the energy balance becomes independent of any macroscopic length and is controlled only by the local properties around the rupture tip.
+These numerical and theoretical findings fundamentally advance our understanding of dynamic rupture propagation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slow and fast earthquakes</title>
       <link>https://huihuiweng.github.io/en/project/slow_and_fast_eqs/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://huihuiweng.github.io/en/project/slow_and_fast_eqs/</guid>
@@ -24,7 +39,7 @@
     </item>
     
     <item>
-      <title>A new model found to predict earthquake propagation speed</title>
+      <title>Supershear ruptures</title>
       <link>https://huihuiweng.github.io/en/project/supershear_eqs/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://huihuiweng.github.io/en/project/supershear_eqs/</guid>
@@ -36,7 +51,7 @@ hypocenter, and then spreads over the entire fault at a speed known as the &amp;
     </item>
     
     <item>
-      <title>New theory for elongated ruptures</title>
+      <title>New 3D rupture theory</title>
       <link>https://huihuiweng.github.io/en/project/equation-of-motion/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://huihuiweng.github.io/en/project/equation-of-motion/</guid>
