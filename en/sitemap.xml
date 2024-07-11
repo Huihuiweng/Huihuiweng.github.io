@@ -68,7 +68,7 @@
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/en/publication-type/0/</loc>
-    <lastmod>2024-04-01T10:23:57+08:00</lastmod>
+    <lastmod>2024-07-01T10:23:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -82,7 +82,7 @@
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/en/</loc>
-    <lastmod>2024-04-01T10:23:57+08:00</lastmod>
+    <lastmod>2024-07-01T10:23:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -95,8 +95,22 @@
                 href="https://huihuiweng.github.io/en/"
                 />
   </url><url>
+    <loc>https://huihuiweng.github.io/en/publication/preprint/s12/</loc>
+    <lastmod>2024-07-01T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://huihuiweng.github.io/publication/preprint/s12/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://huihuiweng.github.io/en/publication/preprint/s12/"
+                />
+  </url><url>
     <loc>https://huihuiweng.github.io/en/publication_types/</loc>
-    <lastmod>2024-04-01T10:23:57+08:00</lastmod>
+    <lastmod>2024-07-01T10:23:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -110,7 +124,7 @@
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/en/publication/</loc>
-    <lastmod>2024-04-01T10:23:57+08:00</lastmod>
+    <lastmod>2024-07-01T10:23:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -121,6 +135,20 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://huihuiweng.github.io/en/publication/"
+                />
+  </url><url>
+    <loc>https://huihuiweng.github.io/en/publication/preprint/</loc>
+    <lastmod>2024-07-01T10:23:57+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://huihuiweng.github.io/publication/preprint/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://huihuiweng.github.io/en/publication/preprint/"
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/en/publication/preprint/s6/</loc>
@@ -135,20 +163,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://huihuiweng.github.io/en/publication/preprint/s6/"
-                />
-  </url><url>
-    <loc>https://huihuiweng.github.io/en/publication/preprint/</loc>
-    <lastmod>2024-04-01T10:23:57+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://huihuiweng.github.io/publication/preprint/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://huihuiweng.github.io/en/publication/preprint/"
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/en/publication-type/2/</loc>
@@ -219,20 +233,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://huihuiweng.github.io/en/publication/journal_papers/14-gc-2023/"
-                />
-  </url><url>
-    <loc>https://huihuiweng.github.io/en/publication/preprint/s12/</loc>
-    <lastmod>2023-10-01T10:23:57+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://huihuiweng.github.io/publication/preprint/s12/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://huihuiweng.github.io/en/publication/preprint/s12/"
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/en/news/2023-summer-school/</loc>
