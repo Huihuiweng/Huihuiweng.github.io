@@ -283,20 +283,6 @@
     <lastmod>2023-07-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://huihuiweng.github.io/publication/preprint/s9/</loc>
-    <lastmod>2023-01-09T10:23:57+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://huihuiweng.github.io/en/publication/preprint/s9/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://huihuiweng.github.io/publication/preprint/s9/"
-                />
-  </url><url>
     <loc>https://huihuiweng.github.io/publication/preprint/s7/</loc>
     <lastmod>2023-01-07T10:23:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -739,6 +725,19 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="https://huihuiweng.github.io/group/"
+                />
+  </url><url>
+    <loc>https://huihuiweng.github.io/group/shiranzhan/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://huihuiweng.github.io/en/group/shiranzhan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://huihuiweng.github.io/group/shiranzhan/"
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/group/yiranshi/</loc>
