@@ -5,7 +5,7 @@
     <link>https://huihuiweng.github.io/en/</link>
       <atom:link href="https://huihuiweng.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <description>NJU</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Aug 2024 10:23:57 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 10:23:57 +0800</lastBuildDate>
     <image>
       <url>https://huihuiweng.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>NJU</title>
@@ -61,6 +61,14 @@
     </item>
     
     <item>
+      <title>Multiscale fault-zone structures governed by earthquake rupture dynamics</title>
+      <link>https://huihuiweng.github.io/en/publication/preprint/s14/</link>
+      <pubDate>Sun, 01 Dec 2024 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/en/publication/preprint/s14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Physics-based assessment of earthquake potential on the Anninghe-Zemuhe-Daliangshan fault system in southwestern China</title>
       <link>https://huihuiweng.github.io/en/publication/journal_papers/16-nc-2024/</link>
       <pubDate>Mon, 12 Aug 2024 10:23:57 +0800</pubDate>
@@ -100,7 +108,7 @@ These numerical and theoretical findings fundamentally advance our understanding
     </item>
     
     <item>
-      <title>Viscoelastic ruptures unbounded by classical speed limits</title>
+      <title>The dynamics of fast and slow earthquake ruptures in viscoelastic materials</title>
       <link>https://huihuiweng.github.io/en/publication/preprint/s13/</link>
       <pubDate>Fri, 01 Mar 2024 10:23:57 +0800</pubDate>
       <guid>https://huihuiweng.github.io/en/publication/preprint/s13/</guid>

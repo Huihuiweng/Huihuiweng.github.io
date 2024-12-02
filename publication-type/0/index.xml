@@ -5,12 +5,20 @@
     <link>https://huihuiweng.github.io/publication-type/0/</link>
       <atom:link href="https://huihuiweng.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 01 Apr 2024 10:23:57 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 01 Dec 2024 10:23:57 +0800</lastBuildDate>
     <image>
       <url>https://huihuiweng.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>0</title>
       <link>https://huihuiweng.github.io/publication-type/0/</link>
     </image>
+    
+    <item>
+      <title>Multiscale fault-zone structures governed by earthquake rupture dynamics</title>
+      <link>https://huihuiweng.github.io/publication/preprint/s14/</link>
+      <pubDate>Sun, 01 Dec 2024 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/publication/preprint/s14/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Theoretical model for physics-based estimation of maximum earthquake sizes</title>
@@ -21,7 +29,7 @@
     </item>
     
     <item>
-      <title>Viscoelastic ruptures unbounded by classical speed limits</title>
+      <title>The dynamics of fast and slow earthquake ruptures in viscoelastic materials</title>
       <link>https://huihuiweng.github.io/publication/preprint/s13/</link>
       <pubDate>Fri, 01 Mar 2024 10:23:57 +0800</pubDate>
       <guid>https://huihuiweng.github.io/publication/preprint/s13/</guid>
