@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://huihuiweng.github.io/en/graduate/students/</loc>
+    <loc>https://huihuiweng.github.io/en/undergraduate/students/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://huihuiweng.github.io/graduate/students/"
+                href="https://huihuiweng.github.io/undergraduate/students/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://huihuiweng.github.io/en/graduate/students/"
+                href="https://huihuiweng.github.io/en/undergraduate/students/"
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/en/group/dezhenzhao/</loc>
@@ -754,19 +754,6 @@
                 href="https://huihuiweng.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://huihuiweng.github.io/en/graduate/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://huihuiweng.github.io/graduate/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://huihuiweng.github.io/en/graduate/"
-                />
-  </url><url>
     <loc>https://huihuiweng.github.io/en/group/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -778,6 +765,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://huihuiweng.github.io/en/group/"
+                />
+  </url><url>
+    <loc>https://huihuiweng.github.io/en/undergraduate/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://huihuiweng.github.io/undergraduate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://huihuiweng.github.io/en/undergraduate/"
                 />
   </url>
 </urlset>
