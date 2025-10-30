@@ -5,7 +5,7 @@
     <link>https://huihuiweng.github.io/</link>
       <atom:link href="https://huihuiweng.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Weng</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 01 May 2025 10:23:57 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Oct 2025 10:23:57 +0800</lastBuildDate>
     <image>
       <url>https://huihuiweng.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Weng</title>
@@ -53,18 +53,34 @@
     </item>
     
     <item>
-      <title>The dynamics of fast and slow earthquake ruptures in viscoelastic materials</title>
-      <link>https://huihuiweng.github.io/publication/journal_papers/17-jgr-2025/</link>
-      <pubDate>Thu, 01 May 2025 10:23:57 +0800</pubDate>
-      <guid>https://huihuiweng.github.io/publication/journal_papers/17-jgr-2025/</guid>
+      <title>Granular fault-zone dilatancy and compaction during and after the 2025 Mw7.7 Myanmar earthquake</title>
+      <link>https://huihuiweng.github.io/publication/preprint/s15/</link>
+      <pubDate>Wed, 01 Oct 2025 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/publication/preprint/s15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiscale fault-zone structures governed by earthquake rupture dynamics</title>
       <link>https://huihuiweng.github.io/publication/preprint/s14/</link>
-      <pubDate>Sun, 01 Dec 2024 10:23:57 +0800</pubDate>
+      <pubDate>Mon, 01 Sep 2025 10:23:57 +0800</pubDate>
       <guid>https://huihuiweng.github.io/publication/preprint/s14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bimaterial effect and favorable energy ratio enabled supershear rupture in the 2025 Mandalay earthquake</title>
+      <link>https://huihuiweng.github.io/publication/journal_papers/18-science-2025/</link>
+      <pubDate>Thu, 01 May 2025 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/publication/journal_papers/18-science-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dynamics of fast and slow earthquake ruptures in viscoelastic materials</title>
+      <link>https://huihuiweng.github.io/publication/journal_papers/17-jgr-2025/</link>
+      <pubDate>Thu, 01 May 2025 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/publication/journal_papers/17-jgr-2025/</guid>
       <description></description>
     </item>
     
