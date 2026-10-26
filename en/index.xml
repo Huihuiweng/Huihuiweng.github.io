@@ -5,7 +5,7 @@
     <link>https://huihuiweng.github.io/en/</link>
       <atom:link href="https://huihuiweng.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <description>NJU</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Apr 2026 10:23:57 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Oct 2026 10:23:57 +0800</lastBuildDate>
     <image>
       <url>https://huihuiweng.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>NJU</title>
@@ -61,6 +61,30 @@
     </item>
     
     <item>
+      <title>Dynamic Theory of Elongated Ruptures Across Stepovers on Normal Fault Systems</title>
+      <link>https://huihuiweng.github.io/en/publication/preprint/s15/</link>
+      <pubDate>Tue, 20 Oct 2026 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/en/publication/preprint/s15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics-based estimates of the maximum magnitude for induced earthquakes in the Groningen gas field</title>
+      <link>https://huihuiweng.github.io/en/publication/preprint/s7/</link>
+      <pubDate>Wed, 07 Oct 2026 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/en/publication/preprint/s7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Granular fault-zone dilatancy and compaction during and after the 2025 Mw7.7 Myanmar earthquake</title>
+      <link>https://huihuiweng.github.io/en/publication/journal_papers/21-nc-2015/</link>
+      <pubDate>Thu, 01 Oct 2026 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/en/publication/journal_papers/21-nc-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Crustal rheology controls long-term topographic growth and seismicity in the eastern Tibetan Plateau</title>
       <link>https://huihuiweng.github.io/en/publication/journal_papers/20-epsl-2026/</link>
       <pubDate>Sun, 26 Apr 2026 10:23:57 +0800</pubDate>
@@ -73,14 +97,6 @@
       <link>https://huihuiweng.github.io/en/publication/journal_papers/19-grl-2025/</link>
       <pubDate>Sat, 18 Apr 2026 10:23:57 +0800</pubDate>
       <guid>https://huihuiweng.github.io/en/publication/journal_papers/19-grl-2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Granular fault-zone dilatancy and compaction during and after the 2025 Mw7.7 Myanmar earthquake</title>
-      <link>https://huihuiweng.github.io/en/publication/preprint/s15/</link>
-      <pubDate>Wed, 01 Oct 2025 10:23:57 +0800</pubDate>
-      <guid>https://huihuiweng.github.io/en/publication/preprint/s15/</guid>
       <description></description>
     </item>
     
@@ -160,14 +176,6 @@ These numerical and theoretical findings fundamentally advance our understanding
       <link>https://huihuiweng.github.io/en/news/2023-summer-school/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://huihuiweng.github.io/en/news/2023-summer-school/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Physics-based estimates of the maximum magnitude  of induced earthquakes in the Groningen gas field (application part)</title>
-      <link>https://huihuiweng.github.io/en/publication/preprint/s7/</link>
-      <pubDate>Sat, 07 Jan 2023 10:23:57 +0800</pubDate>
-      <guid>https://huihuiweng.github.io/en/publication/preprint/s7/</guid>
       <description></description>
     </item>
     

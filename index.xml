@@ -5,7 +5,7 @@
     <link>https://huihuiweng.github.io/</link>
       <atom:link href="https://huihuiweng.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Weng</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 26 Apr 2026 10:23:57 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 20 Oct 2026 10:23:57 +0800</lastBuildDate>
     <image>
       <url>https://huihuiweng.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Weng</title>
@@ -13,34 +13,10 @@
     </image>
     
     <item>
-      <title></title>
-      <link>https://huihuiweng.github.io/undergraduate/students/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://huihuiweng.github.io/undergraduate/students/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>赵德政</title>
       <link>https://huihuiweng.github.io/group/dezhenzhao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://huihuiweng.github.io/group/dezhenzhao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>李洋洋</title>
-      <link>https://huihuiweng.github.io/group/yangyangli/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://huihuiweng.github.io/group/yangyangli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>蒋隽涵</title>
-      <link>https://huihuiweng.github.io/group/juanhanjiang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://huihuiweng.github.io/group/juanhanjiang/</guid>
       <description></description>
     </item>
     
@@ -69,6 +45,54 @@
     </item>
     
     <item>
+      <title>李洋洋</title>
+      <link>https://huihuiweng.github.io/group/yangyangli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://huihuiweng.github.io/group/yangyangli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>蒋隽涵</title>
+      <link>https://huihuiweng.github.io/group/juanhanjiang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://huihuiweng.github.io/group/juanhanjiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://huihuiweng.github.io/graduated/students/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://huihuiweng.github.io/graduated/students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Theory of Elongated Ruptures Across Stepovers on Normal Fault Systems</title>
+      <link>https://huihuiweng.github.io/publication/preprint/s15/</link>
+      <pubDate>Tue, 20 Oct 2026 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/publication/preprint/s15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics-based estimates of the maximum magnitude for induced earthquakes in the Groningen gas field</title>
+      <link>https://huihuiweng.github.io/publication/preprint/s7/</link>
+      <pubDate>Wed, 07 Oct 2026 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/publication/preprint/s7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Granular fault-zone dilatancy and compaction during and after the 2025 Mw7.7 Myanmar earthquake</title>
+      <link>https://huihuiweng.github.io/publication/journal_papers/21-nc-2015/</link>
+      <pubDate>Thu, 01 Oct 2026 10:23:57 +0800</pubDate>
+      <guid>https://huihuiweng.github.io/publication/journal_papers/21-nc-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Crustal rheology controls long-term topographic growth and seismicity in the eastern Tibetan Plateau</title>
       <link>https://huihuiweng.github.io/publication/journal_papers/20-epsl-2026/</link>
       <pubDate>Sun, 26 Apr 2026 10:23:57 +0800</pubDate>
@@ -81,14 +105,6 @@
       <link>https://huihuiweng.github.io/publication/journal_papers/19-grl-2025/</link>
       <pubDate>Sat, 18 Apr 2026 10:23:57 +0800</pubDate>
       <guid>https://huihuiweng.github.io/publication/journal_papers/19-grl-2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Granular fault-zone dilatancy and compaction during and after the 2025 Mw7.7 Myanmar earthquake</title>
-      <link>https://huihuiweng.github.io/publication/preprint/s15/</link>
-      <pubDate>Wed, 01 Oct 2025 10:23:57 +0800</pubDate>
-      <guid>https://huihuiweng.github.io/publication/preprint/s15/</guid>
       <description></description>
     </item>
     
@@ -206,14 +222,6 @@ These numerical and theoretical findings fundamentally advance our understanding
     </item>
     
     <item>
-      <title>Physics-based estimates of the maximum magnitude  of induced earthquakes in the Groningen gas field (application part)</title>
-      <link>https://huihuiweng.github.io/publication/preprint/s7/</link>
-      <pubDate>Sat, 07 Jan 2023 10:23:57 +0800</pubDate>
-      <guid>https://huihuiweng.github.io/publication/preprint/s7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Toward assessing seismic hazard from laboratory observations of rate-and-state frictional parameters</title>
       <link>https://huihuiweng.github.io/publication/preprint/s4/</link>
       <pubDate>Wed, 04 Jan 2023 10:23:57 +0800</pubDate>
@@ -249,7 +257,7 @@ These numerical and theoretical findings fundamentally advance our understanding
     </item>
     
     <item>
-      <title>2022地震学</title>
+      <title>地震学:  2022--</title>
       <link>https://huihuiweng.github.io/teaching/2022-seismology/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://huihuiweng.github.io/teaching/2022-seismology/</guid>
@@ -396,14 +404,6 @@ These numerical and theoretical findings fundamentally advance our understanding
       <link>https://huihuiweng.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://huihuiweng.github.io/admin/config.yml</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>尚王阳</title>
-      <link>https://huihuiweng.github.io/group/wangyangshang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://huihuiweng.github.io/group/wangyangshang/</guid>
       <description></description>
     </item>
     
