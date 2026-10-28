@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://huihuiweng.github.io/en/undergraduate/students/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://huihuiweng.github.io/en/group/dezhenzhao/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -31,19 +28,6 @@
                 href="https://huihuiweng.github.io/en/group/yigao/"
                 />
   </url><url>
-    <loc>https://huihuiweng.github.io/en/group/shiranzhan/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://huihuiweng.github.io/group/shiranzhan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://huihuiweng.github.io/en/group/shiranzhan/"
-                />
-  </url><url>
     <loc>https://huihuiweng.github.io/en/group/yiranshi/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -57,8 +41,57 @@
                 href="https://huihuiweng.github.io/en/group/yiranshi/"
                 />
   </url><url>
-    <loc>https://huihuiweng.github.io/en/group/wangyangshang/</loc>
+    <loc>https://huihuiweng.github.io/en/group/shiranzhan/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://huihuiweng.github.io/group/shiranzhan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://huihuiweng.github.io/en/group/shiranzhan/"
+                />
+  </url><url>
+    <loc>https://huihuiweng.github.io/en/group/yangyangli/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://huihuiweng.github.io/group/yangyangli/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://huihuiweng.github.io/en/group/yangyangli/"
+                />
+  </url><url>
+    <loc>https://huihuiweng.github.io/en/group/juanhanjiang/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://huihuiweng.github.io/group/juanhanjiang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://huihuiweng.github.io/en/group/juanhanjiang/"
+                />
+  </url><url>
+    <loc>https://huihuiweng.github.io/en/graduated/students/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://huihuiweng.github.io/graduated/students/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://huihuiweng.github.io/en/graduated/students/"
+                />
   </url><url>
     <loc>https://huihuiweng.github.io/en/publication-type/0/</loc>
     <lastmod>2026-10-20T10:23:57+08:00</lastmod>
@@ -172,18 +205,18 @@
                 href="https://huihuiweng.github.io/en/publication-type/2/"
                 />
   </url><url>
-    <loc>https://huihuiweng.github.io/en/publication/journal_papers/21-nc-2015/</loc>
+    <loc>https://huihuiweng.github.io/en/publication/journal_papers/21-nc-2026/</loc>
     <lastmod>2026-10-01T10:23:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://huihuiweng.github.io/publication/journal_papers/21-nc-2015/"
+                href="https://huihuiweng.github.io/publication/journal_papers/21-nc-2026/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://huihuiweng.github.io/en/publication/journal_papers/21-nc-2015/"
+                href="https://huihuiweng.github.io/en/publication/journal_papers/21-nc-2026/"
                 />
   </url><url>
     <loc>https://huihuiweng.github.io/en/publication/journal_papers/</loc>
@@ -804,6 +837,19 @@
                 href="https://huihuiweng.github.io/en/categories/"
                 />
   </url><url>
+    <loc>https://huihuiweng.github.io/en/graduated/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://huihuiweng.github.io/graduated/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://huihuiweng.github.io/en/graduated/"
+                />
+  </url><url>
     <loc>https://huihuiweng.github.io/en/group/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -816,8 +862,5 @@
                 hreflang="en-us"
                 href="https://huihuiweng.github.io/en/group/"
                 />
-  </url><url>
-    <loc>https://huihuiweng.github.io/en/undergraduate/</loc>
-    <changefreq>weekly</changefreq>
   </url>
 </urlset>
